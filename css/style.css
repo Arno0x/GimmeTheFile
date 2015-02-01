@@ -1,0 +1,113 @@
+body {
+	margin: 0; padding: 0;
+	background: #0089A8;
+	font-size: 100%;
+	font-family: "trebuchet ms", arial, verdana;
+	color: #000000;
+	text-align: center;
+}
+a {
+	color: #EF7B0A;
+	text-decoration:none; 
+}
+a:hover {
+   text-decoration: underline;
+}
+.title {
+    width: 720px;
+    height: 185px;
+    margin: 20px auto 0 auto;
+    background: #ffffff;
+    border-radius: 3px 3px 0 0;
+    background-image: url(../img/gmtflogo.png);
+    background-size: 100% 100%;
+}
+.main {
+  width: 700px;
+  margin: 0 auto 0 auto;
+  background: #ffffff;
+  padding: 10px;
+  text-align: justify;
+  border-radius: 0 0 3px 3px;
+}
+.menu {
+   font-size: small;
+   text-align: center;
+}
+.footer {
+   margin: 10px 0 0 0; 
+   font-size: small;
+   color: #ccc;
+}
+.paragraph {
+	font-size: small;
+	border-left: 3px solid #ccc;
+	padding-left: 10px;
+}
+.options {
+	font-size: small;
+	border-left: 3px solid #FF6600;
+	padding-left: 10px;
+}
+.mytable td {
+	background: #dddddd;
+	padding: 5px 5px;
+	color: #000000;
+	border: 1px solid #444444;
+}
+.mytableheader td {
+	text-align: center;
+	background: #00002B;
+	color: #ffffff;
+	font-weight: bold;
+}
+h1 {
+   font: verdana, sans-serif;
+   color: #3B578B;
+   border-bottom: 1px solid #ccc;
+   padding-bottom: 3px;
+   margin: 25px 0 10px 0;
+}
+h1.admin {
+   font: verdana, sans-serif;
+   color: #3B578B;
+   border-bottom: 1px solid #ccc;
+   padding-bottom: 3px;
+   margin: 25px 0 10px 0;
+   text-align: center;
+}
+h2 {
+   font: bold 100% arial, verdana, sans-serif;
+   color: #3B578B;
+   border-bottom: 1px solid #ccc;
+   padding-bottom: 3px;
+   margin: 25px 0 10px 0;
+}
+.error-color {
+	color: #ff0000;
+}
+.info {
+	font-size: x-small;
+	color: #666666;
+}
+.ok-color {
+	color: #007A29;
+}
+.result {
+  border: solid 1px black;
+  background-color: #222222;
+  color: #ffffff;
+  font-family: "trebuchet ms", arial, verdana;
+  font-size: 14px;
+  display: none;
+}
+.rotate {
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    transition: .3s;
+}
+.rotate_back {
+    -webkit-transform: rotate(0deg);
+    -moz-transform: rotate(0deg);
+    transition: .3s;
+}
