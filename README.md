@@ -62,7 +62,7 @@ Is this section really necessary ? The app is damn simple to use :-)
 
 The admin page will let you modify some settings and consult the application access log (if they're enabled in the settings).
 	
-** How it works:**
+**How it works:**
 The app downloads the file using the libcurl library. The libcurl client is configured by default:
 	- Follow up to 5 redirects
 	- Support http/https and ftp/ftps protocols
@@ -88,7 +88,7 @@ location /gimmethefile/ {
 				deny all;    
 		}    
 }
-```
+``
 	
 TODO
 ----
