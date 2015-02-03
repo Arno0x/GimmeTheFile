@@ -8,11 +8,12 @@ TABLE OF CONTENT
 ----------------
 - Licence
 - Genesis of the project
-- Server side dependicies
+- Screenshots
+- Server side dependencies
 - How to use / How it works
 - Notes for apache users
 - Notes for nginx users
-- TODO
+- Todo list
 - Credits
 
 Licence
@@ -39,6 +40,32 @@ my hands on PHP, JQuery and CSS.
 
 I'm not a programmer per say (as you can tell by the code quality) but it pretty much does the job while keeping it simple.
 
+Screenshots
+-----------
+.. figure:: http://i.imgur.com/cTuWCMZ.jpg
+	:align: center
+
+	The home page
+
+.. figure:: http://i.imgur.com/WZjgAmJ.jpg
+	:align: center
+
+	Checking server side requirements
+
+.. figure:: http://i.imgur.com/vj2t3Do.jpg
+	:align: center
+
+	Showing more options
+
+.. figure:: http://i.imgur.com/rbE2iQA.jpg
+	:align: center
+
+	Administration page
+
+.. figure:: http://i.imgur.com/GRGBl9M.jpg
+	:align: center
+
+	Listing the access log files
 
 Server side dependencies
 ------------------------
@@ -88,9 +115,9 @@ location /gimmethefile/ {
 				deny all;    
 		}    
 }
-```
+``` 
 	
-TODO
+Todo
 ----
 There's sure plenty of things that I could see in the roadmap, bearing in mind that I want to keep the application as simple as possible (do one thing, but do it right):
 - Fix bugs... (security / features)
