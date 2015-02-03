@@ -42,30 +42,20 @@ I'm not a programmer per say (as you can tell by the code quality) but it pretty
 
 Screenshots
 -----------
-.. figure:: http://i.imgur.com/cTuWCMZ.jpg
-	:align: center
+![home page](http://i.imgur.com/cTuWCMZ.jpg)
+The home page
 
-	The home page
+![server requirements](http://i.imgur.com/WZjgAmJ.jpg)
+Checking server side requirements
 
-.. figure:: http://i.imgur.com/WZjgAmJ.jpg
-	:align: center
+![more options](http://i.imgur.com/vj2t3Do.jpg)
+Showing more options
 
-	Checking server side requirements
+![admin page](http://i.imgur.com/rbE2iQA.jpg)
+Administration page
 
-.. figure:: http://i.imgur.com/vj2t3Do.jpg
-	:align: center
-
-	Showing more options
-
-.. figure:: http://i.imgur.com/rbE2iQA.jpg
-	:align: center
-
-	Administration page
-
-.. figure:: http://i.imgur.com/GRGBl9M.jpg
-	:align: center
-
-	Listing the access log files
+![log files](http://i.imgur.com/GRGBl9M.jpg)
+Listing the access log files
 
 Server side dependencies
 ------------------------
