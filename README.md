@@ -120,3 +120,6 @@ Credits
 -------
 The GimmeTheFile logo has been designed by "DAVELLAY". Thanks to him !
 Feel free to contact me if you like his work and want to get in touch !
+
+![bitcoin](https://dl.dropboxusercontent.com/s/imckco5cg0llfla/bitcoin-icon.png?dl=0) Like this tool ? Tip me with bitcoins !
+![address](https://dl.dropboxusercontent.com/s/9bd5p45xmqz72vw/bc_tipping_address.png?dl=0)
